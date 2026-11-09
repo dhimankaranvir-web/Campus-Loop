@@ -1,0 +1,6 @@
+{
+  "name": "CampusCart - Student Marketplace & Dorm Kitchen",
+  "description": "Student marketplace to buy and sell textbooks, dorm furniture, and kitchenware with an interactive drag-and-drop recipe ingredient builder and subscription manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

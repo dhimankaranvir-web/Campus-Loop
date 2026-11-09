@@ -197,7 +197,7 @@ export const NotificationCenter: React.FC<NotificationCenterProps> = ({
 
         {/* Footer */}
         <div className="p-3 border-t border-stone-200 bg-stone-50 text-center text-[11px] text-stone-500">
-          CampusCart uses Web Push API standards to notify you of locker access codes and student messages.
+          Campus Loop uses Web Push API standards to notify you of locker access codes and student messages.
         </div>
       </div>
     </div>

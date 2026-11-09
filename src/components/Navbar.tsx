@@ -42,7 +42,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               onClick={() => handleNavClick('marketplace')}
               className="text-xl font-bold tracking-tight text-stone-900 hover:text-amber-800 transition-colors whitespace-nowrap shrink-0 flex items-center gap-2 text-left"
             >
-              <span>CampusCart</span>
+              <span>Campus Loop</span>
               <span className="hidden sm:inline-flex items-center text-xs font-semibold text-amber-800 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
                 {user.university}
               </span>

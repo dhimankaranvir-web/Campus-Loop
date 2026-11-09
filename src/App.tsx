@@ -529,7 +529,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-xs text-stone-500 space-y-6">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
             <div>
-              <p className="text-sm font-bold text-stone-900">CampusCart</p>
+              <p className="text-sm font-bold text-stone-900">Campus Loop</p>
               <p className="mt-0.5">
                 The trusted student marketplace for textbooks, furniture, cookware, and dorm meals.
               </p>
@@ -555,7 +555,7 @@ export default function App() {
           </div>
 
           <div className="pt-6 border-t border-stone-100 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] text-stone-400">
-            <p>© 2026 CampusCart. Verified for University Students. Zero listing markups.</p>
+            <p>© 2026 Campus Loop. Verified for University Students. Zero listing markups.</p>
             <p>256-bit encrypted checkout · Safe campus locker hand-offs · .edu authentication</p>
           </div>
         </div>

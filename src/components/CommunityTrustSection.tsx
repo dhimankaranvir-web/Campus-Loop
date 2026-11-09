@@ -113,7 +113,7 @@ export const CommunityTrustSection: React.FC<CommunityTrustProps> = ({
           </div>
           <h3 className="text-sm font-bold text-stone-900">Automatic Escrow Hold</h3>
           <p className="text-xs text-stone-600 leading-relaxed">
-            Funds are held securely by CampusCart until the buyer retrieves the item and verifies it matches the description.
+            Funds are held securely by Campus Loop until the buyer retrieves the item and verifies it matches the description.
           </p>
         </div>
 
